@@ -1,0 +1,56 @@
+body {
+    background-image: url(./images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+    color: white;
+}
+
+.container {
+    margin-left: 30px;
+}
+
+h2 {
+    font-family: sans-serif;
+}
+
+.btn {
+    width: 160px;
+    height: 38px;
+    background-color: white;
+    border-radius: 150px;
+    font-size: 20px;
+    text-align: center;
+    color: hsl(257, 40%, 49%);
+    padding-top: 15px;
+    
+
+}
+
+#img1 {
+    float: left;
+}
+
+.center {
+    width: 320px;
+    height: 300px;
+    float: right;
+    margin: 0 250px 250px 0;
+    margin-left: -100%;
+
+}
+
+footer {
+    clear: left;
+    width: 100%;
+    margin-top: 400px;
+}
+
+.icon {
+   display: flex;
+   margin-left: 60pc;
+}
+#img2 {
+    padding-right: 10px;
+}
+
+
+
